@@ -1,3 +1,1 @@
-# MachineLearning-SummaryNotes
- 
-"# SignLanguageRecognition" 
+# MachineLearning Summary#
